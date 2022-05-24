@@ -1,1 +1,1 @@
-write a shell in C
+Write a shell in C
